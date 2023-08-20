@@ -14,6 +14,7 @@ to the corresponding section:
    debian
    fedora
    gentoo
+   nixos
    opensuse
    ubuntu
    others
